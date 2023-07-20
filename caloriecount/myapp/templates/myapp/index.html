@@ -6,9 +6,16 @@
     <title>Document</title>
 </head>
 <body>
-    {% for food in foods %}
-    <h3> {{ food.name }} </h3>
-    <br>
-    {% endfor %}
+    <form method="POST">
+        {% csrf_token %}
+        <select name="food_consumed" id="food_consumed">
+            {% for food in foods %}
+            <option value="{{ food.id }}">{{ food.name }}</option>
+            {% endfor %}
+        </select>
+        <button type="submit">Add</button>
+    </form>
+    
+   
 </body>
 </html>
