@@ -1,5 +1,5 @@
 ```markdown
-# Macronutrient Tracker - Python Django Application
+## Macronutrient Tracker - Python Django Application
 
 Welcome to the Macronutrient Tracker, a Python Django based application designed for those conscious about their calorie intake and macronutrient balance.
 
@@ -16,7 +16,7 @@ Follow these steps to set up the Macronutrient Tracker on your local machine:
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone git@github.com:devmukherjee/caloriecount.git
    cd caloriecount/caloriecount
    ```
 
@@ -65,4 +65,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-Replace `<repository-url>` with the actual URL of your GitHub repository where the Django application is hosted. This README provides a basic structure including installation instructions, usage guidelines, and information on how to contribute to the project. Adjust and expand sections as per your project's specific features and requirements.
+This README template includes your repository URL (`git@github.com:devmukherjee/caloriecount.git`) in the cloning instructions. Make sure to replace it accordingly when setting up your project's README file on GitHub.
