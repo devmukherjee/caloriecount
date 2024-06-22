@@ -1,4 +1,3 @@
-```markdown
 ## Macronutrient Tracker - Python Django Application
 
 Welcome to the Macronutrient Tracker, a Python Django based application designed for those conscious about their calorie intake and macronutrient balance.
