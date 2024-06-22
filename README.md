@@ -1,17 +1,17 @@
-## Macronutrient Tracker - Python Django Application
+# Caloriecount - Python Django Macronutrient Tracker
 
-Welcome to the Macronutrient Tracker, a Python Django based application designed for those conscious about their calorie intake and macronutrient balance.
+Welcome to Caloriecount, a Python Django based application designed for tracking macronutrients and calorie intake.
 
 ## Features
 
-- **Track Macronutrients**: Log your daily meals and track macronutrient intake (carbohydrates, proteins, fats).
-- **Calorie Counter**: Monitor your calorie consumption and set daily goals.
+- **Track Macronutrients**: Log your daily meals and monitor intake of carbohydrates, proteins, and fats.
+- **Calorie Counter**: Set and track daily calorie goals.
 - **User Authentication**: Secure user authentication system.
-- **Admin Dashboard**: Admin panel to manage users, meals, and track statistics.
+- **Admin Dashboard**: Manage users, meals, and view statistics via an admin panel.
 
 ## Installation
 
-Follow these steps to set up the Macronutrient Tracker on your local machine:
+Follow these steps to set up Caloriecount on your local machine:
 
 1. Clone the repository:
    ```bash
@@ -44,8 +44,8 @@ Follow these steps to set up the Macronutrient Tracker on your local machine:
 ## Usage
 
 - **User Registration**: Create a new account or use the admin-created superuser.
-- **Log Meals**: Log your meals by entering the food items and their quantities.
-- **Track Progress**: View daily macronutrient intake and calorie consumption.
+- **Log Meals**: Log your meals by entering food items and their quantities.
+- **Track Progress**: Monitor daily macronutrient intake and calorie consumption.
 - **Admin Dashboard**: Access admin features at `http://localhost:8000/admin`.
 
 ## Contributing
@@ -64,4 +64,4 @@ Contributions are welcome! Please follow these steps:
 This project is licensed under the [MIT License](LICENSE).
 ```
 
-This README template includes your repository URL (`git@github.com:devmukherjee/caloriecount.git`) in the cloning instructions. Make sure to replace it accordingly when setting up your project's README file on GitHub.
+In this updated README template, I've incorporated the application name "Caloriecount" throughout the document, including the title and relevant sections. This should align with the specific name of your Django application.
